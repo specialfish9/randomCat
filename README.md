@@ -1,6 +1,4 @@
-# randomCat
-
-### By Mattia Girolimetto
+# randomCat 🐱
 
 A random location generator based on your current location for Android!
 
